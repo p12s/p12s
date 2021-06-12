@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm a backend developer who 😻 Go and HighLoad
+
+- 🌱 I’m currently learning **Go in highload services**
+- 📫 How to reach me: **working-tam@yandex.com**
 
 <!--
 **p12s/p12s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
