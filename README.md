@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm a backend developer who 😻 Go and HighLoad
 
 - 🌱 I’m currently learning **Go in highload services**
+- 🖋 My **[cv](https://hh.ru/resume/cc3489f0ff07751efe0039ed1f644367567676#key-skills)**
 - 📫 How to reach me: **working-tam@yandex.com**
 
 <!--
