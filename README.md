@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm a backend developer who 😻 Go and HighLoad
 
 - 💻 Core Stack: **Go, Docker, Kafka**
-- 🔥 Interested in Asynchronous architecture, Microservices, Cloud, Serverless
+- 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse*
+- 🔥 Interested in Asynchronous architecture, Microservices, Cloud
 <!--
 - 🖋 My **[CV](https://hh.ru/resume/cc3489f0ff07751efe0039ed1f644367567676)**
 - 📫 How to reach me: **working-tam@yandex.com**
