@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a backend developer who 😻 Go and HighLoad
 
 - 💻 Core Stack: **Go, Docker, Kafka**
-- 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse*
+- 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse, Ansible*
 - 🔥 Interested in Asynchronous architecture, Microservices, Cloud
 <!--
 - 🖋 My **[CV](https://hh.ru/resume/cc3489f0ff07751efe0039ed1f644367567676)**
