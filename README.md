@@ -2,7 +2,7 @@
 
 - 💻 Core Stack: **Go, Docker, Kafka**
 - 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse, Ansible*
-- 💒 Making a simple frontend with Vuetify 2
+- 💒 Making a simple frontend with Vue + Vuetify, NuxtJS
 - 🔥 Interested in Blockchain, Smart contracts, Asynchronous architecture, Microservices, Cloud
 <!--
 - 🖋 My **[CV](https://hh.ru/resume/cc3489f0ff07751efe0039ed1f644367567676)**
