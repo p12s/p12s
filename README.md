@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm a backend developer who 😻 Go and HighLoad
+### Hi there 👋🏻 I'm a backend developer who 😻 Go and HighLoad
 
 - 💻 Core Stack: **Go, Docker, Kafka**
 - 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse, Ansible*
