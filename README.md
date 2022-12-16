@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 I'm a backend developer who 😻 Go
 
-- 💻 Core Stack: **Go, Docker, Postgres, ClickHouse, NSQ**
+- 💻 Core Stack: **Go, Postgres, ClickHouse, NSQ**
 - 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse, Ansible*
 - 💒 Making a simple frontend with Vue3, Nuxt3 (Vuetify)
 - 🔥 Interested in Asynchronous architecture, Microservices, Clouds
