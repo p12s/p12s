@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 I'm a backend developer who 😻 Go
 
 - 💻 Core Stack: **Go, Postgres, ClickHouse, NSQ**
-- 🛴 I use less: *Oracle Database, PostgreSQL, Couchbase, ClickHouse, Ansible*
+- 🛴 I use less: *Oracle Database, Couchbase*
 - 💒 Making a simple frontend with Vue3, Nuxt3 (Vuetify)
 - 🔥 Interested in Asynchronous architecture, Microservices, Clouds
 <!--
