@@ -1,6 +1,6 @@
-### Hi there 👋🏻 I'm a backend dev who 😻 Golang
+### Hi there 👋🏻 I'm a Mobile App Technical Lead who 😻 Golang
 
-- 💻 Core Stack: **Go, Postgres, Kafka**
+- 💻 Core Stack: **Go, Postgres, Kafka, Redis, GraphQL**
 - 🔥 Interested in Asynchronous architecture, Microservices, Clouds
   
 <!--
