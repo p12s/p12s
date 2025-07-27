@@ -1,4 +1,5 @@
 ### Hi there 👋🏻 I'm a Tech/Team Lead who 😻 Golang
+My previous profile is [here](https://github.com/p-12s)  
 
 - 💻 Core Stack: **Go, Postgres, Kafka, GraphQL**
 - 🔥 Interested in Asynchronous architecture, Microservices, Clouds
