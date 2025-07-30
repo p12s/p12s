@@ -14,11 +14,6 @@ Experienced technology leader specializing in building scalable backend systems 
 - Implementing observability practices across cloud environments
 - Integrating AI-driven automation for engineering workflows
 
-## 💡 Recent Contributions
-- Designed and implemented mobile application backend using microservices architecture
-- Implemented CI/CD pipeline reducing deployment time from 15 minutes to 1
-- Mentored several mid-level developers to senior-level and tech-lead positions through structured growth plans
-
 ## 📬 Let's Connect
 Open to technical leadership opportunities and complex backend challenges. Reach out for collaboration on infrastructure modernization or system design.
 
