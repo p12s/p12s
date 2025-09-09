@@ -9,10 +9,9 @@ Experienced technology leader specializing in building scalable backend systems 
 - **Team Leadership**: Agile methodology implementation, technical roadmap planning, and fostering high-performing engineering teams
 
 ## 🔭 Current Focus
+- Exploring AI agents to simplify routine tasks
 - Modernizing legacy systems through strategic microservices decomposition
-- Exploring Rust for performance-critical components
 - Implementing observability practices across cloud environments
-- Integrating AI-driven automation for engineering workflows
 
 ## 📬 Let's Connect
 Open to technical leadership opportunities and complex backend challenges. Reach out for collaboration on infrastructure modernization or system design.
