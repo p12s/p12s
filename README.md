@@ -6,7 +6,7 @@ Experienced technology leader specializing in building scalable backend systems 
 - **Backend Development**: 4+ years building high-performance services in Go (8+ years total commercial IT experience - [previous life](https://github.com/p-12s))
 - **Data Systems**: PostgreSQL optimization, Kafka event streaming, GraphQL API design
 - **Cloud Architecture**: Yandex Cloud infrastructure design, containerization (Docker/K8s)
-- **Team Leadership**: Agile methodology implementation, technical roadmap planning, and fostering high-performing engineering teams
+- **Team Leadership**: Agile methodology implementation, technical roadmap planning and fostering high-performing engineering teams
 
 ## 🔭 Current Focus
 - Exploring AI agents to simplify routine tasks
