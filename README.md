@@ -1,4 +1,4 @@
-# Pavel V | Golang Tech Lead
+# Pavel V | Golang
 
 Experienced technology leader specializing in building scalable backend systems with Go. Passionate about driving engineering excellence, mentoring developers, and implementing robust cloud-native solutions.
 
