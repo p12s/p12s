@@ -1,5 +1,3 @@
-# Pavel V
-
 ## 🔭 Current Focus
 - FPV-racing
 - Ardupilot, BetaFlight  
