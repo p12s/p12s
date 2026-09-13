@@ -1,6 +1,6 @@
 ## 🔭 Current Focus
 - FPV-racing
-- Ardupilot, BetaFlight  
+- BetaFlight, iNAV, Ardupilot
 - Arduino, Raspberry Pi
 
 ## 🛠️ Previous life expertise
