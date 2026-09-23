@@ -1,7 +1,7 @@
 ## 🔭 Current Focus
 - FPV-racing
 - BetaFlight, iNAV, Ardupilot
-- Arduino, Raspberry Pi
+- Arduino, Raspberry Pi, ESP32
 
 ## 🛠️ Previous life expertise
 - **Backend Development**: 5+ years building high-performance services in Golang (10+ years total commercial IT experience - [previous life](https://github.com/p-12s))
